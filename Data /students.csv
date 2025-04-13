@@ -1,0 +1,11 @@
+student_id,name,course,enrollment_date
+S001,Student 1,DataSci101,2023-01-10
+S002,Student 2,DataSci101,2023-01-12
+S003,Student 3,DataSci101,2023-01-14
+S004,Student 4,DataSci101,2023-01-16
+S005,Student 5,DataSci101,2023-01-18
+S006,Student 6,DataSci101,2023-01-20
+S007,Student 7,DataSci101,2023-01-22
+S008,Student 8,DataSci101,2023-01-24
+S009,Student 9,DataSci101,2023-01-26
+S010,Student 10,DataSci101,2023-01-28
